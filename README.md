@@ -1,1 +1,1 @@
-# roman_kata
+#Solução para problema proposto durante a entrevista.
