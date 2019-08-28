@@ -1,1 +1,1 @@
-# Solução para problema proposto durante a entrevista.
+# Conversor de números romanos para números inteiros.
