@@ -1,1 +1,1 @@
-# Conversor de números romanos para números inteiros.
+# Conversor de números romanos para inteiros.
